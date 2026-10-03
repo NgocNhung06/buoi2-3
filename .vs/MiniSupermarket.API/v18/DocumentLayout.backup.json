@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|solutionrelative:minisupermarket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.winforms\\formcustomermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|solutionrelative:minisupermarket.winforms\\formcustomermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\minisupermarket.winforms\\formcustomermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|solutionrelative:minisupermarket.winforms\\formcustomermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.winforms\\formcustomermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|solutionrelative:minisupermarket.winforms\\formcustomermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|solutionrelative:minisupermarket.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|solutionrelative:minisupermarket.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|solutionrelative:minisupermarket.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.api\\data\\supermarketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|solutionrelative:minisupermarket.api\\data\\supermarketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|solutionrelative:minisupermarket.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|solutionrelative:minisupermarket.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|solutionrelative:minisupermarket.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|solutionrelative:minisupermarket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\minisupermarket.winforms\\formcategorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|solutionrelative:minisupermarket.winforms\\formcategorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.api\\migrations\\20260926121519_minisupermarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|solutionrelative:minisupermarket.api\\migrations\\20260926121519_minisupermarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.winforms\\formlogin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|solutionrelative:minisupermarket.winforms\\formlogin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.winforms\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|solutionrelative:minisupermarket.winforms\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.winforms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|solutionrelative:minisupermarket.winforms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.winforms\\formcategorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|solutionrelative:minisupermarket.winforms\\formcategorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\minisupermarket.winforms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|solutionrelative:minisupermarket.winforms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.winforms\\formcategorymanagement.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{DA686EAD-24BF-4451-95D3-5FB28525060F}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|solutionrelative:minisupermarket.winforms\\formcategorymanagement.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.api\\migrations\\20260926123009_nguyenlechicong_212410094.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|solutionrelative:minisupermarket.api\\migrations\\20260926123009_nguyenlechicong_212410094.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.api\\migrations\\20260926121715_minisupermarkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|solutionrelative:minisupermarket.api\\migrations\\20260926121715_minisupermarkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|c:\\users\\lenovo ideapad\\desktop\\minisupermarket.api\\minisupermarket.api\\migrations\\20261003064642_addcustomerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1653101D-3F0A-470F-A56F-109194083144}|MiniSupermarket.API\\MiniSupermarket.API.csproj|solutionrelative:minisupermarket.api\\migrations\\20261003064642_addcustomerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAALoAAAAAAAAAAAAswMwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-03T07:26:55.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCustomerManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormCustomerManagement.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\FormCustomerManagement.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormCustomerManagement.cs",
+              "RelativeToolTip": "MiniSupermarket.WinForms\\FormCustomerManagement.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAAKwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:49:23.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormCustomerManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormCustomerManagement.Designer.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\FormCustomerManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormCustomerManagement.Designer.cs",
+              "RelativeToolTip": "MiniSupermarket.WinForms\\FormCustomerManagement.Designer.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAmwKkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:48:52.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormCustomerManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormCustomerManagement.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\FormCustomerManagement.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormCustomerManagement.cs [Design]*",
+              "RelativeToolTip": "MiniSupermarket.WinForms\\FormCustomerManagement.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:48:38.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.API\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "MiniSupermarket.API\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:47:44.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20261003064642_AddCustomersTable.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Migrations\\20261003064642_AddCustomersTable.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.API\\Migrations\\20261003064642_AddCustomersTable.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Migrations\\20261003064642_AddCustomersTable.cs",
+              "RelativeToolTip": "MiniSupermarket.API\\Migrations\\20261003064642_AddCustomersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:46:42.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SupermarketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Data\\SupermarketDbContext.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.API\\Data\\SupermarketDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Data\\SupermarketDbContext.cs",
+              "RelativeToolTip": "MiniSupermarket.API\\Data\\SupermarketDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T11:58:23.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MiniSupermarket.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswDsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T12:33:55.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.API\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Models\\Category.cs",
+              "RelativeToolTip": "MiniSupermarket.API\\Models\\Category.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T11:52:47.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Program.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Program.cs",
+              "RelativeToolTip": "MiniSupermarket.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T12:05:24.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.API\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Models\\Customer.cs",
+              "RelativeToolTip": "MiniSupermarket.API\\Models\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T13:18:12.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Models\\Product.cs",
+              "RelativeToolTip": "MiniSupermarket.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T11:54:27.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\Program.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\Program.cs",
+              "RelativeToolTip": "MiniSupermarket.WinForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:36:53.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormLogin.resx",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormLogin.resx",
+              "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\FormLogin.resx",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormLogin.resx",
+              "RelativeToolTip": "MiniSupermarket.WinForms\\FormLogin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-02T15:41:45.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\FormLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormLogin.Designer.cs",
+              "RelativeToolTip": "MiniSupermarket.WinForms\\FormLogin.Designer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAuwIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:37:04.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormLogin.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormLogin.cs",
+              "RelativeToolTip": "MiniSupermarket.WinForms\\FormLogin.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:36:43.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormLogin.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormLogin.cs [Design]",
+              "RelativeToolTip": "MiniSupermarket.WinForms\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:35:40.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormCategoryManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormCategoryManagement.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\FormCategoryManagement.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormCategoryManagement.cs",
+              "RelativeToolTip": "MiniSupermarket.WinForms\\FormCategoryManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T12:38:50.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormCategoryManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormCategoryManagement.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\FormCategoryManagement.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormCategoryManagement.cs [Design]",
+              "RelativeToolTip": "MiniSupermarket.WinForms\\FormCategoryManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T12:38:45.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormCategoryManagement.resx",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormCategoryManagement.resx",
+              "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\FormCategoryManagement.resx",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.WinForms\\FormCategoryManagement.resx",
+              "RelativeToolTip": "MiniSupermarket.WinForms\\FormCategoryManagement.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-26T12:38:36.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260926123009_NguyenLeChiCong_212410094.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Migrations\\20260926123009_NguyenLeChiCong_212410094.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.API\\Migrations\\20260926123009_NguyenLeChiCong_212410094.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Migrations\\20260926123009_NguyenLeChiCong_212410094.cs",
+              "RelativeToolTip": "MiniSupermarket.API\\Migrations\\20260926123009_NguyenLeChiCong_212410094.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T12:30:09.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260926121715_MiniSupermarkt.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Migrations\\20260926121715_MiniSupermarkt.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.API\\Migrations\\20260926121715_MiniSupermarkt.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Migrations\\20260926121715_MiniSupermarkt.cs",
+              "RelativeToolTip": "MiniSupermarket.API\\Migrations\\20260926121715_MiniSupermarkt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T12:17:15.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260926121519_MiniSupermarket.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Migrations\\20260926121519_MiniSupermarket.cs",
+              "RelativeDocumentMoniker": "MiniSupermarket.API\\Migrations\\20260926121519_MiniSupermarket.cs",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\Migrations\\20260926121519_MiniSupermarket.cs",
+              "RelativeToolTip": "MiniSupermarket.API\\Migrations\\20260926121519_MiniSupermarket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T12:15:19.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MiniSupermarket.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo IdeaPad\\Desktop\\MiniSupermarket.API\\MiniSupermarket.API\\appsettings.json",
+              "RelativeToolTip": "MiniSupermarket.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-26T12:04:25.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

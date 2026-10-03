@@ -1,0 +1,6 @@
+﻿@MiniSupermarket.API_HostAddress = http://localhost:7049
+
+GET {{MiniSupermarket.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

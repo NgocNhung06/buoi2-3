@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MiniSupermarket.API\\MiniSupermarket.API.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj",
+        "Action": "Start",
+        "DebugTarget": "MiniSupermarket.WinForms"
+      }
+    ]
+  }
+]

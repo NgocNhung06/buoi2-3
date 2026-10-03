@@ -1,0 +1,102 @@
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\MiniSupermarket.WinForms.exe
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\MiniSupermarket.WinForms.deps.json
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\MiniSupermarket.WinForms.runtimeconfig.json
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\MiniSupermarket.WinForms.dll
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\MiniSupermarket.WinForms.pdb
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.csproj.AssemblyReference.cache
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.FormCategoryManagement.resources
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.csproj.GenerateResource.cache
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.AssemblyInfoInputs.cache
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.AssemblyInfo.cs
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.csproj.CoreCompileInputs.cache
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupe.2D6382AC.Up2Date
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.dll
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\refint\MiniSupermarket.WinForms.dll
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.pdb
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.genruntimeconfig.cache
+D:\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\ref\MiniSupermarket.WinForms.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\MiniSupermarket.WinForms.exe
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\MiniSupermarket.WinForms.deps.json
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\MiniSupermarket.WinForms.runtimeconfig.json
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\MiniSupermarket.WinForms.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\MiniSupermarket.WinForms.pdb
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.csproj.AssemblyReference.cache
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.FormCategoryManagement.resources
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.csproj.GenerateResource.cache
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.AssemblyInfoInputs.cache
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.AssemblyInfo.cs
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.sourcelink.json
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupe.2D6382AC.Up2Date
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\refint\MiniSupermarket.WinForms.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.pdb
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.genruntimeconfig.cache
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\ref\MiniSupermarket.WinForms.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.LoginResponseDto.resources
+C:\Users\Lenovo IdeaPad\Desktop\MiniSupermarket.API\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.FormCustomerManagement.resources
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\MiniSupermarket.WinForms.exe
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\MiniSupermarket.WinForms.deps.json
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\MiniSupermarket.WinForms.runtimeconfig.json
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\MiniSupermarket.WinForms.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\MiniSupermarket.WinForms.pdb
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.csproj.AssemblyReference.cache
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.FormCategoryManagement.resources
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.FormCustomerManagement.resources
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.LoginResponseDto.resources
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.csproj.GenerateResource.cache
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.AssemblyInfoInputs.cache
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.AssemblyInfo.cs
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.csproj.CoreCompileInputs.cache
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupe.2D6382AC.Up2Date
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\refint\MiniSupermarket.WinForms.dll
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.pdb
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\MiniSupermarket.WinForms.genruntimeconfig.cache
+D:\MiniSupermarket-Session1-Buoi3\MiniSupermarket.WinForms\obj\Debug\net8.0-windows\ref\MiniSupermarket.WinForms.dll
